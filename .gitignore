@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+students.txt
+courses.txt
+marks.txt
+students.dat
